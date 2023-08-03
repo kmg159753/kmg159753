@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmg159753&count_bg=%233D3FC8&title_bg=%23555555&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
+![SPRING](https://img.shields.io/badge/SPRING-#6DB33F.svg?&style=for-the-badge&logo=SPRING&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
+![REDIS](https://img.shields.io/badge/REDIS-4479A1.svg?&style=for-the-badge&logo=REDIS&logoColor=white)
+
