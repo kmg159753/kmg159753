@@ -17,6 +17,6 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://soo-vely-dev.tistory.com/](https://velog.io/@kmg1997))]([https://soo-vely-dev.tistory.com/](https://velog.io/@kmg1997))
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@kmg1997)](https://velog.io/@kmg1997)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mingyugim584@gmail.com)](mingyugim584@gmail.com)
 
