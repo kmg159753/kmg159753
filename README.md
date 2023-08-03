@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 ---------------------
 ![ANGO's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?ANGO=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmg1997)](https://solved.ac/kmg1997/)
+
