@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
 ![REDIS](https://img.shields.io/badge/REDIS-4479A1.svg?&style=for-the-badge&logo=REDIS&logoColor=white)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ANGO=anuraghazra&show_icons=true&theme=radical)
+
