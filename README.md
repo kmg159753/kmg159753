@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 ## Github Stats
 ---------------------
-![ANGO's GitHub stats](https://github-readme-stats.vercel.app/api?ANGO=anuraghazra&show_icons=true&theme=radical)
+[![ANGO's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?ANGO=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
