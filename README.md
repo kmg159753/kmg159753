@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ![REDIS](https://img.shields.io/badge/REDIS-4479A1.svg?&style=for-the-badge&logo=REDIS&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ANGO=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kmg159753=anuraghazra&show_icons=true&theme=radical)
 
